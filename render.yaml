@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: launchpad-learning
+    name: spaceship-science
     env: docker
     plan: free
